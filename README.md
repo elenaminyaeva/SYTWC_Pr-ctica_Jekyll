@@ -1,1 +1,1 @@
-# SYTWC_Pr-ctica_Jekyll
+# SYTWC_Practica_Jekyll
