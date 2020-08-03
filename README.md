@@ -165,3 +165,12 @@ body {
   {% endfor %}
 ...
 </div>
+```
+
+## Result
+
+```
+ bundle exec jekyll serve
+```
+![Jekyll](/images/result_home.png)
+![Jekyll](/images/result_post.png)
